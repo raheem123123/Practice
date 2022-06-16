@@ -17,7 +17,10 @@ run
 command 
 space
 programme
-
+Code 
+Software 
+clean 
+mvn 
 
 
 
