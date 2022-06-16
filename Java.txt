@@ -1,0 +1,11 @@
+Git 
+Maven 
+Tomact
+Jenkins
+Sonarqube 
+Docker 
+Kubernetes
+Ansible
+Terraform
+AWS
+Linux Commands.
