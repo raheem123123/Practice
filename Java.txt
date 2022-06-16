@@ -11,6 +11,12 @@ AWS
 Linux Commands.
 
 Add
+clear 
+delete
+run
+command 
+space
+programme
 
 
 
